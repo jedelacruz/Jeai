@@ -5,8 +5,15 @@
 
 # Introducing JEAI
 
-Welcome to JEAI, your ultimate AI SaaS platform—completely free!
+Welcome to **JEAI**, your ultimate AI-powered SaaS platform—completely free!
 
-Revolutionize your tasks with our AI-powered website, delivering high-quality text in seconds. Whether you're writing, editing, or generating content, JEAI has got you covered.
+**JEAI** is designed to help you revolutionize your text generation and editing tasks. Whether you're writing, editing, or generating content, our platform uses the power of **Gemini**, combined with **TypeScript**, **Next.js**, **Clerk**, and hosted on **Vercel**, to deliver high-quality text in seconds.
+
+## Key Features:
+- **AI-Powered Text Generation**: Create high-quality text instantly for various purposes, from writing and editing to content generation.
+- **Responsive & Engaging Interface**: Enjoy a fully responsive platform optimized for both desktop and mobile devices, ensuring a seamless experience on any screen size.
+- **User-Friendly**: The platform is designed with the user in mind, making it easy to navigate and use, even for beginners.
+- **Built-in Text Editor**: JEAI comes with a powerful text editor similar to MS Word, allowing you to write, format, and edit text effortlessly.
+- **Instant Text Creation**: With just a click, you can generate content that meets your needs, whether it's for blogs, reports, emails, or more.
 
 Explore the platform: [JEAI Website](https://jeai-i6qzqkha6-jedelacruzs-projects.vercel.app)
